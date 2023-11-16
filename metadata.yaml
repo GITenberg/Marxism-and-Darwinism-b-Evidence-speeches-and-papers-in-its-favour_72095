@@ -5,6 +5,9 @@ contributor:
     agent_name: Weiser, Nathan
     gutenberg_agent_id: '56536'
     url: http://www.gutenberg.org/2009/agents/56536
+covers:
+- cover_type: archival
+  image_path: 72095-h/images/cover.jpg
 creator:
   author:
     agent_name: Pannekoek, Anton
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Antonie_Pannekoek
     - https://nl.wikipedia.org/wiki/Anton_Pannekoek
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72095#Marxism-and-Darwinism-b-Evidence-speeches-and-papers-in-its-favour
 gutenberg_issued: '2023-11-11'
 identifiers:
   gutenberg: '72095'
